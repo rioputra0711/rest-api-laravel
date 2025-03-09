@@ -12,6 +12,7 @@ Database dump (aset_management.sql) tersedia di repo untuk import cepat, ada di 
 
 1️⃣ Clone Repo
 
+install git dulu abis itu ketik ini di terminal:
 git clone https://github.com/rioputra0711/rest-api-laravel.git
 cd rest-api-laravel
 
